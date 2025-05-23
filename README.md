@@ -1,12 +1,13 @@
-# Codigo_PFG_Llord_Alejandra
-Resolución simbólico-numérica de la ecuación de Schrödinger para sistemas atómicos simples mediante el método variacional.
+
+# Resolución simbólico-numérica de la ecuación de Schrödinger para sistemas atómicos simples mediante el método variacional.
 
 **Autora**: Alejandra Llord Muñoz de la Espada  
 **Tutor**: Pablo Fernández Blanco  
 **Universidad**: Francisco de Vitoria  
 **Grado**: Ingeniería Matemática con título propio en Quantum Computing
 
-# Archivos incluidos del código en MATLAB
+## Codigo_PFG_Llord_Alejandra
+## Archivos incluidos del código en MATLAB
 
 - [`hidrogeno.mlx`](hidrogeno.mlx)  
   Estudio del átomo de hidrógeno. Incluye:
