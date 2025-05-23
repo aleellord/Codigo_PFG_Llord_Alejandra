@@ -1,5 +1,5 @@
 
-# Resolución simbólico-numérica de la ecuación de Schrödinger para sistemas atómicos simples mediante el método variacional.
+# Resolución simbólico-numérica de la ecuación de Schrödinger para sistemas atómicos simples.
 
 **Autora**: Alejandra Llord Muñoz de la Espada  
 **Tutor**: Pablo Fernández Blanco  
