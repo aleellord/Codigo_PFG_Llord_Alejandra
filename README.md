@@ -6,7 +6,6 @@
 **Universidad**: Francisco de Vitoria  
 **Grado**: Ingeniería Matemática con título propio en Quantum Computing
 
-## Codigo_PFG_Llord_Alejandra
 ## Archivos incluidos del código en MATLAB
 
 - [`hidrogeno.mlx`](hidrogeno.mlx)  
