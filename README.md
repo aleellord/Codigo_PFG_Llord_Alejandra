@@ -4,9 +4,9 @@ Resolución simbólico-numérica de la ecuación de Schrödinger para sistemas a
 **Autora**: Alejandra Llord Muñoz de la Espada  
 **Tutor**: Pablo Fernández Blanco  
 **Universidad**: Francisco de Vitoria  
-**Grado**: Ingeniería Matemática
+**Grado**: Ingeniería Matemática con título propio en Quantum Computing
 
-##Archivos incluidos del código en MATLAB
+# Archivos incluidos del código en MATLAB
 
 - [`hidrogeno.mlx`](hidrogeno.mlx)  
   Estudio del átomo de hidrógeno. Incluye:
